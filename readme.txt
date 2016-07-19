@@ -7,3 +7,5 @@ editArea.
 =======
 Creating a new branch.
 >>>>>>> dev
+
+2017/7/19 edit 
